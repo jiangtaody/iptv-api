@@ -2,6 +2,8 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+
+央视频道,#genre#
 CCTV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 CCTV2,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
 CCTV3,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls
@@ -22,6 +24,8 @@ CCTV17,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u
 CCTV5+,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
 CCTV16-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226351/1/index.m3u8?fmt=ts2hls
 CCTV-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226319/1/index.m3u8?fmt=ts2hls
+
+卫视频道,#genre#
 东方卫视-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226374/1/index.m3u8?fmt=ts2hls
 湖南卫视-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226360/1/index.m3u8?fmt=ts2hls
 浙江卫视-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226331/1/index.m3u8?fmt=ts2hls
@@ -31,6 +35,8 @@ CCTV-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226319/1/index.m3
 北京卫视-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226359/1/index.m3u8?fmt=ts2hls
 山东卫视-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226334/1/index.m3u8?fmt=ts2hls
 四川卫视-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226377/1/index.m3u8?fmt=ts2hls
+
+地方频道,#genre#
 黔南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226022/1/index.m3u8?fmt=ts2hls
 贵州卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 贵州2,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
@@ -41,6 +47,8 @@ CCTV-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226319/1/index.m3
 贵州7,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
 财富天下720,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226145/1/index.m3u8?fmt=ts2hls
 金鹰纪实,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
+
+咪咕直播,#genre#
 咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226229/1/index.m3u8?fmt=ts2hls
 咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226230/1/index.m3u8?fmt=ts2hls
 咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
@@ -56,7 +64,8 @@ CCTV-4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226319/1/index.m3
 咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226183/1/index.m3u8?fmt=ts2hls
 咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226186/1/index.m3u8?fmt=ts2hls
 咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226223/1/index.m3u8?fmt=ts2hls
-咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226226/1/index.m3u8?fmt=ts2hls咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226227/1/index.m3u8?fmt=ts2hls
+咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226226/1/index.m3u8?fmt=ts2hls
+咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226227/1/index.m3u8?fmt=ts2hls
 咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226233/1/index.m3u8?fmt=ts2hls
 咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226236/1/index.m3u8?fmt=ts2hls
 咪咕视频,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226258/1/index.m3u8?fmt=ts2hls
