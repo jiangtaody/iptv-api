@@ -1,21 +1,20 @@
 🕘️更新时间,#genre#
-2026-10-31 23:35:41,http://45.192.97.170:8880/play/255.m3u8
+2026-11-01 08:49:02,http://45.192.97.170:8880/play/255.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://45.192.97.170:8880/play/255.m3u8
 CCTV-2,http://45.192.97.170:8880/play/256.m3u8
 CCTV-3,http://45.192.97.170:8880/play/257.m3u8
 CCTV-4,http://45.192.97.170:8880/play/258.m3u8
-CCTV-5,http://45.192.97.170:8880/play/260.m3u8
 CCTV-5,http://45.192.97.170:8880/play/259.m3u8
+CCTV-5,http://45.192.97.170:8880/play/260.m3u8
 CCTV-8,http://45.192.97.170:8880/play/263.m3u8
 CCTV-9,http://45.192.97.170:8880/play/264.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3a00fc0d3fc15e9259b00428ba25249c
 CCTV-10,http://45.192.97.170:8880/play/265.m3u8
 CCTV-13,http://45.192.97.170:8880/play/268.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,http://45.192.97.170:8880/play/222.m3u8
+CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 
 💰央视付费频道,#genre#
 
@@ -33,7 +32,6 @@ CETV-1,http://45.192.97.170:8880/play/222.m3u8
 哈哈炫动,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd
 新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 🌊港·澳·台,#genre#
@@ -59,4 +57,6 @@ NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=c
 🏀体育频道,#genre#
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
