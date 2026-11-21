@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-11-21 02:14:10,http://173.208.234.146/live/cctv4.m3u8
+2026-11-21 10:58:07,http://173.208.234.146/live/cctv4.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://173.208.234.146/live/cctv4.m3u8
 CCTV-7,http://173.208.234.146/live/cctv7.m3u8
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3fd39399ff1d9c66c94af29354fc1624
 CCTV-11,http://173.208.234.146/live/cctv11.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -37,8 +36,8 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -50,6 +49,4 @@ NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=0
 🏀体育频道,#genre#
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
